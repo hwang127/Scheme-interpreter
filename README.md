@@ -1,6 +1,6 @@
 # Scheme-to-Python interpreter
 
-#This is a scheme interpreter built using Python. To start an interactive Scheme interpreter session, type:
+#This is a scheme interpreter built using Python. To start an interactive Scheme interpreter session, type the following in the command line:
 
 #python3 scheme.py
 
